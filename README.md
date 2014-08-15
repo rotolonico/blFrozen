@@ -1,3 +1,3 @@
 blFrozen
 ========
-A frozen inspired map for TeeWorlds
+A Frozen inspired map for TeeWorlds.
